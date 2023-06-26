@@ -1,0 +1,59 @@
+[
+  {
+    "organization": "olasuper6",
+    "products": [
+      "shara",
+      "pizzaa"
+    ],
+    "marketValue": "60%",
+    "address": "Lekki",
+    "ceo": "cn",
+    "country": "Congo",
+    "noOfEmployees": 2,
+    "employees": [
+      "james bond",
+      "jackie chan"
+    ],
+    "createdAt": "2023-06-17T10:54:09.930Z",
+    "updatedAt": "2023-06-26T11:03:58.468Z",
+    "id": 1
+  },
+  {
+    "organization": "pelzman",
+    "products": [
+      "sharwama",
+      "pizzaa"
+    ],
+    "marketValue": "70%",
+    "address": "Lekki",
+    "ceo": "cn",
+    "country": "Nigeria",
+    "noOfEmployees": 2,
+    "employees": [
+      "james bond",
+      "jackie chan"
+    ],
+    "createdAt": "2023-06-17T10:54:51.458Z",
+    "updatedAt": "2023-06-17T10:54:51.458Z",
+    "id": 2
+  },
+  {
+    "organization": "pelzma",
+    "products": [
+      "sharwam",
+      "pizzaa"
+    ],
+    "marketValue": "70%",
+    "address": "Lekki",
+    "ceo": "cn",
+    "country": "Nigeria",
+    "noOfEmployees": 2,
+    "employees": [
+      "james bond",
+      "jackie chan"
+    ],
+    "createdAt": "2023-06-26T11:04:24.422Z",
+    "updatedAt": "2023-06-26T11:04:24.422Z",
+    "id": 3
+  }
+]
